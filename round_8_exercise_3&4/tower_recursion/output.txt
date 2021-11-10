@@ -1,0 +1,10 @@
+Number of disks is 20
+0.055
+Number of disks is 21
+0.106
+Number of disks is 22
+0.219
+Number of disks is 23
+0.404
+Number of disks is 24
+0.848
